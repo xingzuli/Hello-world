@@ -1,3 +1,3 @@
 # Hello-world
 This is a new brach named readme-edit
-learn to use github
+It is used to learn to use github
