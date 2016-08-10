@@ -1,7 +1,7 @@
 @echo off
 echo Input the message of the commmit
 set /p message=
-echo your message is %message%
+echo your message is "%message%"
 git add -A
 echo complete adding the change
 echo.
